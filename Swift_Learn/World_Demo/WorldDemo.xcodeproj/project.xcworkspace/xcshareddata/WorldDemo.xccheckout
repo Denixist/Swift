@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08B2759C-5763-4977-9A06-E20B25C5253A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WorldDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14F60C95570C0D6491BD00055043CF7443BA42FE</key>
+		<string>https://github.com/Denixist/Swift_Learn.git</string>
+		<key>4A3B6F48D8DA0EEA435E4679CC0205E451EF7D4F</key>
+		<string>https://github.com/Denixist/WorldDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WorldDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14F60C95570C0D6491BD00055043CF7443BA42FE</key>
+		<string>../../..</string>
+		<key>4A3B6F48D8DA0EEA435E4679CC0205E451EF7D4F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Denixist/WorldDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A3B6F48D8DA0EEA435E4679CC0205E451EF7D4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14F60C95570C0D6491BD00055043CF7443BA42FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A3B6F48D8DA0EEA435E4679CC0205E451EF7D4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>1_World-Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
